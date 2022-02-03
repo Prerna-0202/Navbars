@@ -1,7 +1,7 @@
 .navbar3{
     display:flex;
     color:rgb(0, 255, 34);
-    border:2px solid red;
+    border:2px solid green;
     background-color: rgb(211, 231, 248);
     cursor:pointer;
     border-radius: 2px;
