@@ -166,3 +166,10 @@
 .navbar5 ul li a{
     color:white;
 }
+.navbar6{
+    float:right;
+ padding:  20px;
+ border: 2px solid green;
+ border-radius: 20px;
+ background-color: rgb(89, 224, 231);
+}
